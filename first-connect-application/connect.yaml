@@ -1,5 +1,5 @@
 deployAs:
-  - name: custom-app
+  - name: ct-test
     applicationType: merchant-center-custom-application
     configuration:
       standardConfiguration:
